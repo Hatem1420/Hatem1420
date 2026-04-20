@@ -7,7 +7,7 @@
 - 📱 Flutter Developer focused on building scalable mobile apps  
 - 🌱 Worked on **Car Emissions Tracker App (IoT + Mobile + Cloud)**  
 - 🧠 Interested in **Clean Architecture, State Management, and System Design**  
-- ⚡ Currently at Tuwaiq Academy in Flutter Mobile App Development
+- ⚡ Currently at Tuwaiq Academy in Flutter Mobile App Development Bootcamp
 
 ---
 
